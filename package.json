@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/humbertoc-silva/github-packages-quicky-start/issues"
   },
-  "homepage": "https://github.com/humbertoc-silva/github-packages-quicky-start#readme"
+  "homepage": "https://github.com/humbertoc-silva/github-packages-quicky-start#readme",
+  "publishConfig": {
+    "@humbertoc-silva:registry": "https://npm.pkg.github.com"
+  }
 }

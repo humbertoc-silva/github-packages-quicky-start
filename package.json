@@ -1,0 +1,19 @@
+{
+  "name": "@humbertoc-silva/github-packages-quicky-start",
+  "version": "1.0.0",
+  "description": "GitHub Packages quick start",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humbertoc-silva/github-packages-quicky-start.git"
+  },
+  "author": "Humberto Corrêa da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/humbertoc-silva/github-packages-quicky-start/issues"
+  },
+  "homepage": "https://github.com/humbertoc-silva/github-packages-quicky-start#readme"
+}
